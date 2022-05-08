@@ -1,5 +1,5 @@
 {
-  "name": "matheusbach/pixpayment/",
+  "name": "matheusbach/pixpayment",
   "description": "Módulo para pagamentos com PIX no PrestaShop",
   "homepage": "https://github.com/matheusbach/pixpayment",
   "license": "AFL-3.0",
