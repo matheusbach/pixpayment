@@ -27,3 +27,4 @@ GitHub contributors:
  - nihco2
  - tchauviere
  - thierrymarianne
+- matheusbach
