@@ -9,8 +9,8 @@
       "email": "contact@prestashop.com"
     },
     {
-      "name": "Matheus Bach",
-    },
+      "name": "Matheus Bach"
+    }
   ],
   "require": {
     "php": ">=5.4"
